@@ -6,15 +6,15 @@
 How to make this gif ?
 
 I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+Then i recorded my screen on windows OS using the xbox recorder (command is win + alt + R) i got the .mp4 file
+Then i converted the .msp to .gif here https://convertio.co/
+Then i cropped the .gif as per my need here https://ezgif.com/resize
 -->
 
 
 ## I'm a Developer \ ITGuy
 
-- 🌱 I’m currently learning Azure Devops 🤣
+- 🌱 I’m currently learning Azure Devops 🕵🏽‍♀️
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get Azure Certified 
 
